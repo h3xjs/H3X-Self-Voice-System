@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="H3X Voice Host Banner"/>
+  <img src="https://github.com/user-attachments/assets/bde6a522-6c2c-4f68-9321-e516272d0198" width="100%" alt="H3X Voice Host Banner"/>
 </p>
 
 <h1 align="center">⚡ H3X Voice Host</h1>
