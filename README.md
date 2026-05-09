@@ -23,10 +23,13 @@
 
 Sistem; token profillerini yönetme, ses kanalına otomatik bağlanma, mikrofon / kulaklık / kamera / yayın durumlarını kontrol etme, Spotify ve oyun presence modlarını kullanma gibi özellikleri modern bir panel üzerinden sunar.
 
-Proje; **Electron arayüz**, **Express API**, **MongoDB lisans sistemi** ve **VDS worker mantığı** ile çalışacak şekilde tasarlanmıştır.
 
 ---
+## 🖼️ Görsel Alanları
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/f9dcbed5-8e5d-4408-a723-835115d69ea8" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/c41d253e-2ddc-404f-b408-89684ae60404" />
 
+---
 ## 👑 H3X Premium Lisans Sistemi
 
 Bu proje herkese açık şekilde kullanılabilen standart bir sistem değildir.  
